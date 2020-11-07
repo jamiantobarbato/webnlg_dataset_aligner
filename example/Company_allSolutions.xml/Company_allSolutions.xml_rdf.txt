@@ -1,0 +1,41 @@
+Brazil  leaderName  Cármen_Lúcia
+Brazil  leaderName  Cármen_Lúcia
+Brazil  leaderName  Cármen_Lúcia
+Chinabank  netIncome  15100000000
+Chinabank  netIncome  15100000000
+Chinabank  netIncome  15100000000
+GMA_New_Media  keyPerson  Felipe_Gozon
+GMA_New_Media  keyPerson  Felipe_Gozon
+GMA_New_Media  keyPerson  Felipe_Gozon
+GMA_New_Media  product  World_Wide_Web
+GMA_New_Media  product  World_Wide_Web
+GMA_New_Media  product  World_Wide_Web
+GMA_New_Media  product  World_Wide_Web
+GMA_New_Media  product  World_Wide_Web
+GMA_New_Media  type  Media_company
+GMA_New_Media  type  Media_company
+La_Crosse,_Wisconsin  areaTotal  58.38
+La_Crosse,_Wisconsin  areaTotal  58.38
+La_Crosse,_Wisconsin  areaTotal  58.38
+La_Crosse,_Wisconsin  areaTotal  58.38
+Philippine_Entertainment_Portal  parentCompany  GMA_New_Media
+Philippine_Entertainment_Portal  parentCompany  GMA_New_Media
+Philippine_Entertainment_Portal  parentCompany  GMA_New_Media
+Philippines  ethnicGroup  Pangasinense_people
+Philippines  ethnicGroup  Pangasinense_people
+Philippines  ethnicGroup  Pangasinense_people
+Philippines  ethnicGroup  Pangasinense_people
+Philippines  leaderName  Rodrigo_Duterte
+Philippines  leaderName  Rodrigo_Duterte
+Philippines  leaderName  Rodrigo_Duterte
+Philippines  leaderName  Rodrigo_Duterte
+Swords,_Dublin  isPartOf  Dublin_(European_Parliament_constituency)
+Swords,_Dublin  isPartOf  Dublin_(European_Parliament_constituency)
+Swords,_Dublin  isPartOf  Dublin_(European_Parliament_constituency)
+Swords,_Dublin  leaderTitle  County Manager
+Swords,_Dublin  leaderTitle  County Manager
+Swords,_Dublin  leaderTitle  County Manager
+Swords,_Dublin  leaderTitle  County Manager
+United_States  longName  United States of America
+United_States  longName  United States of America
+United_States  longName  United States of America

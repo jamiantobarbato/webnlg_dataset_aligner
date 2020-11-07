@@ -1,0 +1,61 @@
+Albany,_Georgia  isPartOf  United_States
+Albany,_Georgia  isPartOf  United_States
+Albany,_Georgia  isPartOf  United_States
+Albany,_Oregon  isPartOf  Oregon
+Albany,_Oregon  isPartOf  Oregon
+Albany,_Oregon  isPartOf  Oregon
+Alexandria,_Indiana  areaTotal  6.81 (square kilometres)
+Alexandria,_Indiana  areaTotal  6.81 (square kilometres)
+Alexandria,_Indiana  areaTotal  6.81 (square kilometres)
+Amarillo,_Texas  isPartOf  Potter_County,_Texas
+Amarillo,_Texas  isPartOf  Potter_County,_Texas
+Amarillo,_Texas  isPartOf  Potter_County,_Texas
+Anaheim,_California  elevationAboveTheSeaLevel  48.0
+Anaheim,_California  elevationAboveTheSeaLevel  48.0
+Anderson,_Indiana  isPartOf  Anderson_Township,_Madison_County,_Indiana
+Anderson,_Indiana  isPartOf  Anderson_Township,_Madison_County,_Indiana
+Anderson,_Indiana  isPartOf  Anderson_Township,_Madison_County,_Indiana
+Anderson,_Indiana  isPartOf  Fall_Creek_Township,_Madison_County,_Indiana
+Anderson,_Indiana  isPartOf  Fall_Creek_Township,_Madison_County,_Indiana
+Anderson,_Indiana  isPartOf  Fall_Creek_Township,_Madison_County,_Indiana
+Anderson,_Indiana  isPartOf  Union_Township,_Madison_County,_Indiana
+Anderson,_Indiana  isPartOf  Union_Township,_Madison_County,_Indiana
+Ann_Arbor,_Michigan  populationDensity  1580.7 (inhabitants per square kilometre)
+Atlanta  country  United_States
+Atlanta  country  United_States
+Atlanta  country  United_States
+Atlanta  isPartOf  Georgia_(U.S._state)
+Atlanta  isPartOf  Georgia_(U.S._state)
+Atlanta  isPartOf  Georgia_(U.S._state)
+Attica,_Indiana  isPartOf  Indiana
+Attica,_Indiana  isPartOf  Indiana
+Attica,_Indiana  isPartOf  Indiana
+Auburn,_Alabama  country  United_States
+Auburn,_Alabama  country  United_States
+Auburn,_Alabama  country  United_States
+Auburn,_Alabama  country  United_States
+Auburn,_Alabama  country  United_States
+Austin,_Texas  areaOfLand  686.0 (square kilometres)
+Austin,_Texas  areaOfLand  686.0 (square kilometres)
+Austin,_Texas  country  United_States
+Austin,_Texas  country  United_States
+Austin,_Texas  country  United_States
+Austin,_Texas  country  United_States
+Austin,_Texas  country  United_States
+Austin,_Texas  country  United_States
+Austin,_Texas  isPartOf  Texas
+Austin,_Texas  isPartOf  Texas
+Austin,_Texas  isPartOf  Texas
+Indiana  capital  Indianapolis
+Indiana  capital  Indianapolis
+Michigan  country  United_States
+Michigan  country  United_States
+Texas  language  English_language
+Texas  language  English_language
+Texas  language  English_language
+United_States  demonym  Americans
+United_States  demonym  Americans
+United_States  demonym  Americans
+United_States  ethnicGroup  Asian_Americans
+United_States  ethnicGroup  Asian_Americans
+United_States  ethnicGroup  Asian_Americans
