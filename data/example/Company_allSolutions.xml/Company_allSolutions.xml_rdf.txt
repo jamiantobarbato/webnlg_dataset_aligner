@@ -1,6 +1,6 @@
-Brazil  leaderName  Cármen_Lúcia
-Brazil  leaderName  Cármen_Lúcia
-Brazil  leaderName  Cármen_Lúcia
+Brazil  leaderName  CÃ¡rmen_LÃºcia
+Brazil  leaderName  CÃ¡rmen_LÃºcia
+Brazil  leaderName  CÃ¡rmen_LÃºcia
 Chinabank  netIncome  15100000000
 Chinabank  netIncome  15100000000
 Chinabank  netIncome  15100000000
